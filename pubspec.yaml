@@ -1,8 +1,8 @@
 name: flutter_poplayer
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: sailcoder<sailcoder666@gmail.com>
+homepage: https://github.com/sail-coder/flutter_poplayer
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
